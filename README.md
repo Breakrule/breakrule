@@ -16,59 +16,34 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://twitter.com/rezkyweb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/>
-  </a>
-  <a href="https://linkedin.com/in/rezky-maulana" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-  </a>
-  <a href="https://instagram.com/rezky.gg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30"/>
-  </a>
-  <a href="https://medium.com/@rezkymaulanagt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="30" height="30"/>
-  </a>
-  <a href="https://www.hackerrank.com/atomicsgt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="30" height="30"/>
-  </a>
+### Frontend & Mobile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
 </p>
+
+* Flutter — cross-platform mobile application development
+* Android — native platform fundamentals
 
 ---
 
-## 🛠 Tech Stack
+### Backend & API
 
-### Languages
+* Laravel — RESTful API and backend services
+* PHP — server-side application logic
+
+---
+
+### Data & Scripting
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
-### Frameworks & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=breakrule&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breakrule&layout=compact&hide_border=true" />
-</p>
-
----
+* Python — automation, data processing, and AI experimentation
 
 ## 🎯 Current Focus
 
